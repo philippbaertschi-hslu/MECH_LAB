@@ -14,6 +14,7 @@
 ## Import Packages
 import lgpio
 
+
 class Motor_Off:
     """ Class to correctly turn of the DC motor oder Stepper motor """
     def turn_motor_off():

@@ -22,7 +22,7 @@ IN2 = 18    # IN2 on Motor screw terminal
 ENA = 12    # ENA - PWM for speed control (Enable A)
 
 # settings
-VOLTAGE = 3 # *** CHANGE ME *** voltage for DC motor [V] between 0 und 12 V (Voltage from power supply is always 12 V)
+VOLTAGE = 6 # *** CHANGE ME *** voltage for DC motor [V] between 0 und 12 V (Voltage from power supply is always 12 V)
 DIRECTION = 1  # *** CHANGE ME *** movement direction (0 or 1) of slide on linear guideway
 
 # auxiliary parameters
