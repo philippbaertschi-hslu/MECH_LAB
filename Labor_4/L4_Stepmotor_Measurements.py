@@ -24,7 +24,7 @@ IN4 = 22    # Coil B-
 
 
 # settings of stepper motor and cycles/movement
-STEP_TIME = 0.004  # *** CHANGE ME *** time in [s] between two consecutive steps of stepper motor
+STEP_TIME = 0.002  # *** CHANGE ME *** time in [s] between two consecutive steps of stepper motor
 MOVEMENT_STOP_TIME = 0  # *** CHANGE ME ***  Pause [s] between two consecutive movements (up/down) of slide on linear guideway
 MOVEMENT_STEP_NUMBER = 2000  # *** CHANGE ME ***  Number of steps to drive the stepper motor per movement of the slide on the linear guideway
 CYCLE_START_DIRECTION = 1  # *** CHANGE ME ***  Direction (0 or 1) of first movement of slide on linear guideway

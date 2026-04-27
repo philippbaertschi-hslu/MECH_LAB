@@ -25,7 +25,7 @@ IN4 = 22    # Coil B-
 
 # settings of stepper motor
 DIRECTION = 0  # *** CHANGE ME *** movement direction (0 or 1) of slide on linear guideway
-STEP_TIME = 0.004  # *** CHANGE ME *** time in [s] between two consecutive steps of stepper motor
+STEP_TIME = 0.002  # *** CHANGE ME *** time in [s] between two consecutive steps of stepper motor
 
 # ----------- function definition -----------
 def set_motor_coils(coil_1, coil_2, coil_3, coil_4):
